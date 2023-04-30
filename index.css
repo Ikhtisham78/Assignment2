@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(170, 108, 36, 0.462);
+    overflow-x: ;
+}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('/imgs/pexels-hasan-albari-1229861.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(219, 215, 250);
+  }
+
+#cities{
+    background-image: url('/imgs/fav city.jpg');
+}
+#spots{
+    background-image: url('/imgs/spots.jpg');
+}
+#personalities{
+    background-image: url('/imgs/person.jpg');
+    color: black;
+}
